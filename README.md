@@ -2,7 +2,9 @@
 
 Application build with support of React JS, React-Bootstrap, Bootstrap and UUID library
 
-Before running this application make sure to install node-modules with the following commands: <h4>npm install</h4>
+Before running this application make sure to install node-modules with the following command: <h4> "npm install"</h4>
+# Live Demo:
+<a href ='https://personal-budget-tracking-app.netlify.app/'>Link</a>
 
 # Preview application:
 
