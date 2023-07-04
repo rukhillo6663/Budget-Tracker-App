@@ -6,15 +6,12 @@ Before running this application make sure to install node-modules with the follo
 # Live Demo:
 <a href ='https://personal-budget-tracking-app.netlify.app/'>Link</a>
 
-# Preview application:
+# Preview :
 
 ![Alt text](image.png)
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 
 
-# Deployment:
-
-You can deploy this application with Netlify or Vercel.
 
 
