@@ -7,10 +7,9 @@ Before running this application make sure to install node-modules with the follo
 # Preview application:
 
 ![Alt text](image.png)
-
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
-![Alt text](image-4.png)
+
 
 # Deployment:
 
